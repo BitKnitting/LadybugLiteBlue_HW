@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LB_Schottky
+D Diode schottky
+$ENDCMP
+#
+$CMP USB_MICRO_B
+D B connector
+K USB USB_B
+$ENDCMP
+#
+#End Doc Library

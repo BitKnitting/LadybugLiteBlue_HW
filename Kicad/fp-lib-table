@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LadybugHydro)(type KiCad)(uri /Users/margaret/Documents/LettuceBuddyHW/LadyBugHydro/LadyBugBlueLite/Kicad/LadybugHydro.pretty)(options "")(descr ""))
+  (lib (name LettuceBuddy)(type Legacy)(uri /Users/margaret/Documents/LettuceBuddyHW/LadyBugHydro/LadyBugBlueLite/Kicad/Libraries/LettuceBuddy.mod)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri "$(KIPRJMOD)/Logo")(options "")(descr ""))
+)
